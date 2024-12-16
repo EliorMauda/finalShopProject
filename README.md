@@ -87,12 +87,6 @@ store.removeProductFromCart(1); // Removes product with ID 1 from the cart.
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## Author
 
 Developed by Elior Mauda.
